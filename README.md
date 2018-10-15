@@ -26,4 +26,4 @@
 
 
  [demo1-gif]: img/demo1.gif
- [demo2-png]: /img/swbutton.png
+ [demo2-png]: /img/swbutton_led.png
