@@ -13,7 +13,9 @@
   当应用程序不在需要GPIO连接的时候，关闭Gpio资源；
 
 ![Blink sample demo][demo1-gif]
+### Button
 
+![Button sample demo][demo1-gif]
 
 ##   led button mouble
     更改以上的例子进行按钮操作，请将树莓派连接鼠标与显示器(或者触摸屏）
@@ -23,4 +25,4 @@
     使用此deomo请将led正极接入BCM6引脚
 
 
-    [demo1-gif]: ..img/demo1.gif
+    [demo1-gif]: ../img/demo1.gif
