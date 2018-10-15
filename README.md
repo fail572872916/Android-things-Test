@@ -13,9 +13,9 @@
   当应用程序不在需要GPIO连接的时候，关闭Gpio资源；
 
  ![Image text](img/demo1.gif)
-### Button
 
-![Button sample demo][demo1-gif]
+ ![Image text][demo2]
+
 
 ##   led button mouble
     更改以上的例子进行按钮操作，请将树莓派连接鼠标与显示器(或者触摸屏）
@@ -26,3 +26,4 @@
 
 
     [demo1-gif]: img/demo1.gif
+    [demo2]: /img/demo1.gif
