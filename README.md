@@ -12,9 +12,7 @@
   使用Handler来执行触发GPIO的事件，在一段时间后再次触发；
   当应用程序不在需要GPIO连接的时候，关闭Gpio资源；
 
-If you have the Raspberry Pi [Rainbow Hat for Android Things](https://github.com/fail572872916/Android-things-led.git), just plug it onto your Raspberry Pi 3.
-
-![Schematics for Raspberry Pi 3](../img/demo1.gif)
+![Blink sample demo][demo1-gif]
 
 
 ##   led button mouble
@@ -23,3 +21,6 @@ If you have the Raspberry Pi [Rainbow Hat for Android Things](https://github.com
 
 # 注意事项
     使用此deomo请将led正极接入BCM6引脚
+
+
+    [demo1-gif]: ..img/demo1.gif
