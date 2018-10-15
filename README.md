@@ -12,7 +12,7 @@
   使用Handler来执行触发GPIO的事件，在一段时间后再次触发；
   当应用程序不在需要GPIO连接的时候，关闭Gpio资源；
 
-![Blink sample demo][demo1-gif]
+ ![Image text](img/demo1.gif)
 ### Button
 
 ![Button sample demo][demo1-gif]
@@ -25,4 +25,4 @@
     使用此deomo请将led正极接入BCM6引脚
 
 
-    [demo1-gif]: ../img/demo1.gif
+    [demo1-gif]: img/demo1.gif
