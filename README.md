@@ -12,18 +12,18 @@
   使用Handler来执行触发GPIO的事件，在一段时间后再次触发；
   当应用程序不在需要GPIO连接的时候，关闭Gpio资源；
 
- ![Image text](img/demo1.gif)
-
- ![Image text][demo2]
+ ![Image text][demo1-gif]
 
 
 ##   led button mouble
     更改以上的例子进行按钮操作，请将树莓派连接鼠标与显示器(或者触摸屏）
     点击开灯或关灯按钮进行开关操作。
 
+![Image text][demo2-png]
+
 # 注意事项
     使用此deomo请将led正极接入BCM6引脚
 
 
-    [demo1-gif]: img/demo1.gif
-    [demo2]: /img/demo1.gif
+ [demo1-gif]: img/demo1.gif
+ [demo2-png]: /img/swbutton.png
