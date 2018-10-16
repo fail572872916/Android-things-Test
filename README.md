@@ -25,5 +25,19 @@
     使用此deomo请将led正极接入BCM6引脚
 
 
+
+
+##   camera
+     这个是使用摄像头进行拍照并在屏幕上显示的例子
+### 材料
+-  使用10k电阻
+-     导线
+-    按钮开关
+
+ ![拍出来的图][demo3-png1]
+
+
+
  [demo1-gif]: img/demo1.gif
  [demo2-png]: /img/swbutton_led.png
+  [demo3-png1]: /img/device-2018-10-16-164509.png

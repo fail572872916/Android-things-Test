@@ -1,1 +1,1 @@
-include ':app', ':ledbutton'
+include ':app', ':ledbutton', ':camara'
