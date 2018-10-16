@@ -36,8 +36,13 @@
 
  ![拍出来的图][demo3-png1]
 
+接线连接图
+
+ ![拍出来的图][demo3-png2]
+
 
 
  [demo1-gif]: img/demo1.gif
  [demo2-png]: /img/swbutton_led.png
   [demo3-png1]: /img/device-2018-10-16-164509.png
+  [demo3-png2]: /img/demo3_link.png
