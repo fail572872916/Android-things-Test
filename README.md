@@ -5,7 +5,7 @@
 
 
 ##   app mouble
- 实现了使用SeekBar UI控件来控制电路中LED等闪烁频率的功能，主要使用了GPIOAPI进行如下处理：
+    实现了使用SeekBar UI控件来控制电路中LED等闪烁频率的功能，主要使用了GPIOAPI进行如下处理：
   使用PeripheralManager来打开一个连接到GPIO端口的LED连接；
   使用DIRECTION_OUT_INITIALLY_LOW配置端口；
   给setValue()方法传递getValue()相反的值来改变LED的状态；
@@ -34,15 +34,19 @@
 -     导线
 -    按钮开关
 
+
  ![拍出来的图][demo3-png1]
+
 
 接线连接图
 
  ![拍出来的图][demo3-png2]
 
+## camerapreview
+    Android things  camere 时时预览的状态
 
 
  [demo1-gif]: img/demo1.gif
  [demo2-png]: /img/swbutton_led.png
-  [demo3-png1]: /img/device-2018-10-16-164509.png
-  [demo3-png2]: /img/demo3_link.png
+ [demo3-png1]: /img/device-2018-10-16-164509.png
+ [demo3-png2]: /img/demo3_link.png

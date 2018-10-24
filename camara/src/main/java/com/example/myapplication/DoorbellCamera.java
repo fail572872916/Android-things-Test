@@ -260,4 +260,6 @@ public class DoorbellCamera {
             Log.d(TAG, "Cam access exception getting characteristics.");
         }
     }
+
+
 }

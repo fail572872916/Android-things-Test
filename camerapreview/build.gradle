@@ -5,8 +5,8 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.myapplication"
-        minSdkVersion 27
+        applicationId "com.example.camerapreview"
+        minSdkVersion 24
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -31,7 +31,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     compileOnly 'com.google.android.things:androidthings:+'
-    implementation 'com.google.android.things.contrib:driver-button:1.0'
-    implementation   'org.tensorflow:libtensorflow:1.11.0'
-    implementation "com.android.support:appcompat-v7:27.0.2"
+    implementation 'com.android.support:support-v4:27.0.2'
 }
