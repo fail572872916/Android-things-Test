@@ -1,1 +1,1 @@
-include ':app', ':ledbutton', ':camara', ':camerapreview'
+include ':app', ':ledbutton', ':camara', ':camerapreview', ':linkaruduino'

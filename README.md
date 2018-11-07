@@ -45,6 +45,10 @@
 ## camerapreview
     Android things  camere 时时预览的状态
 
+### linkarduino
+        实现了anroid things与 arudino的通信
+
+
 
  [demo1-gif]: img/demo1.gif
  [demo2-png]: /img/swbutton_led.png

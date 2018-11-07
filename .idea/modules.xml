@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/camara/camara.iml" filepath="$PROJECT_DIR$/camara/camara.iml" />
       <module fileurl="file://$PROJECT_DIR$/camerapreview/camerapreview.iml" filepath="$PROJECT_DIR$/camerapreview/camerapreview.iml" />
       <module fileurl="file://$PROJECT_DIR$/ledbutton/ledbutton.iml" filepath="$PROJECT_DIR$/ledbutton/ledbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkaruduino/linkaruduino.iml" filepath="$PROJECT_DIR$/linkaruduino/linkaruduino.iml" />
     </modules>
   </component>
 </project>
