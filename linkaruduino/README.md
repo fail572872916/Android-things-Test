@@ -7,4 +7,4 @@
 
 ![接线图 ](/img/link_arduino.jpg)
 
-[arduino Code](/linkarduino/link_aruduino)
+[arduino Code](/linkaruduino/link_arduino)
