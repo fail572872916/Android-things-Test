@@ -59,4 +59,4 @@ android things Stepper motor
  [demo2-png]: /img/swbutton_led.png
  [demo3-png1]: /img/device-2018-10-16-164509.png
  [demo3-png2]: /img/demo3_link.png
- [demo3-led]: /img/led_link.jpg
+ [demo3-led1]: /img/led_link.jpg
