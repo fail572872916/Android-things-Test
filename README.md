@@ -22,8 +22,9 @@
 ![Image text][demo2-png]
 
 # 注意事项
-    使用此deomo请将led正极接入BCM6引脚
+    使用此demo请将led正极接入BCM6引脚 负极接gnd
 
+ ![拍出来的图][demo3-led1]
 
 
 
@@ -42,11 +43,15 @@
 
  ![拍出来的图][demo3-png2]
 
-## camerapreview
-    Android things  camere 时时预览的状态
+## Camera preview
+    Android things  camera 时时预览的状态
 
-### linkarduino
-        实现了anroid things与 arudino的通信
+### link Arduino
+        实现了android things与 arudino的通信
+
+###  GPio2Stepper
+android things Stepper motor
+实现了控制步进电机
 
 
 
@@ -54,3 +59,4 @@
  [demo2-png]: /img/swbutton_led.png
  [demo3-png1]: /img/device-2018-10-16-164509.png
  [demo3-png2]: /img/demo3_link.png
+ [demo3-led]: /img/led_link.jpg

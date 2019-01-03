@@ -6,8 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/camara/camara.iml" filepath="$PROJECT_DIR$/camara/camara.iml" />
       <module fileurl="file://$PROJECT_DIR$/camerapreview/camerapreview.iml" filepath="$PROJECT_DIR$/camerapreview/camerapreview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpio2steepr/gpio2steepr.iml" filepath="$PROJECT_DIR$/gpio2steepr/gpio2steepr.iml" />
       <module fileurl="file://$PROJECT_DIR$/ledbutton/ledbutton.iml" filepath="$PROJECT_DIR$/ledbutton/ledbutton.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkaruduino/linkaruduino.iml" filepath="$PROJECT_DIR$/linkaruduino/linkaruduino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifitest/wifitest.iml" filepath="$PROJECT_DIR$/wifitest/wifitest.iml" />
     </modules>
   </component>
 </project>

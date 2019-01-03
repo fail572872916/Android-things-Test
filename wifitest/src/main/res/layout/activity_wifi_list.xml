@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+    	android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+	<LinearLayout
+    	android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+
+		<Button
+		    android:id="@+id/check_wifi"
+		    android:layout_width="0dp"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1"
+		    android:text="@string/check_wifi_state" />
+		<Button
+        	android:id="@+id/scan_wifi"
+       	 	android:layout_width="0dp"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"
+        	android:text="@string/scan_wifi" />
+	</LinearLayout>
+	
+	<LinearLayout
+    	android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+	    <Button
+	        android:id="@+id/open_wifi"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="@string/open_wifi" />
+	
+	    <Button
+	        android:id="@+id/close_wifi"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="@string/close_wifi" />
+
+    </LinearLayout>	
+    <Button 
+        android:id="@+id/jump_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="获取已连接wifi信息"/>	
+	
+    <ListView
+        android:id="@+id/wifi_list"
+        android:layout_width="match_parent"
+        android:layout_height="224dp" >
+    </ListView>
+	
+</LinearLayout>
+</ScrollView>
